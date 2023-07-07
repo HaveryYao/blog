@@ -1,4 +1,4 @@
 baseURL = 'http://haveryyao.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'zh-cn'
+title = '学习笔记'
 theme = 'hugo-book' 

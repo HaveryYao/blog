@@ -2,21 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://haveryyao.github.io/docs/example/</loc>
-  </url><url>
-    <loc>http://haveryyao.github.io/docs/example/table-of-contents/with-toc/</loc>
-  </url><url>
-    <loc>http://haveryyao.github.io/docs/example/table-of-contents/without-toc/</loc>
-  </url><url>
     <loc>http://haveryyao.github.io/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://haveryyao.github.io/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://haveryyao.github.io/docs/example/table-of-contents/</loc>
-  </url><url>
-    <loc>http://haveryyao.github.io/docs/example/collapsed/</loc>
   </url><url>
     <loc>http://haveryyao.github.io/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
@@ -60,35 +50,35 @@
     <loc>http://haveryyao.github.io/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://haveryyao.github.io/docs/example/collapsed/3rd-level/4th-level/</loc>
+    <loc>http://haveryyao.github.io/docs/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/</loc>
   </url><url>
-    <loc>http://haveryyao.github.io/docs/example/collapsed/3rd-level/</loc>
+    <loc>http://haveryyao.github.io/docs/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/columns/</loc>
   </url><url>
-    <loc>http://haveryyao.github.io/docs/example/hidden/</loc>
+    <loc>http://haveryyao.github.io/docs/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/details/</loc>
   </url><url>
-    <loc>http://haveryyao.github.io/docs/shortcodes/</loc>
+    <loc>http://haveryyao.github.io/docs/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/expand/</loc>
   </url><url>
-    <loc>http://haveryyao.github.io/docs/shortcodes/buttons/</loc>
+    <loc>http://haveryyao.github.io/docs/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/hints/</loc>
   </url><url>
-    <loc>http://haveryyao.github.io/docs/shortcodes/columns/</loc>
+    <loc>http://haveryyao.github.io/docs/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/katex/</loc>
   </url><url>
-    <loc>http://haveryyao.github.io/docs/shortcodes/details/</loc>
+    <loc>http://haveryyao.github.io/docs/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/mermaid/</loc>
   </url><url>
-    <loc>http://haveryyao.github.io/docs/shortcodes/expand/</loc>
+    <loc>http://haveryyao.github.io/docs/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/mysql/</loc>
   </url><url>
-    <loc>http://haveryyao.github.io/docs/shortcodes/hints/</loc>
+    <loc>http://haveryyao.github.io/docs/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/section/</loc>
   </url><url>
-    <loc>http://haveryyao.github.io/docs/shortcodes/katex/</loc>
+    <loc>http://haveryyao.github.io/docs/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/section/first-page/</loc>
   </url><url>
-    <loc>http://haveryyao.github.io/docs/shortcodes/mermaid/</loc>
+    <loc>http://haveryyao.github.io/docs/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/section/second-page/</loc>
   </url><url>
-    <loc>http://haveryyao.github.io/docs/shortcodes/section/</loc>
+    <loc>http://haveryyao.github.io/docs/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8/tabs/</loc>
   </url><url>
-    <loc>http://haveryyao.github.io/docs/shortcodes/section/first-page/</loc>
+    <loc>http://haveryyao.github.io/docs/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/</loc>
   </url><url>
-    <loc>http://haveryyao.github.io/docs/shortcodes/section/second-page/</loc>
+    <loc>http://haveryyao.github.io/docs/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/kafka/</loc>
   </url><url>
-    <loc>http://haveryyao.github.io/docs/shortcodes/tabs/</loc>
+    <loc>http://haveryyao.github.io/posts/%E4%B8%80%E4%B8%AA%E7%9A%84%E5%8D%9A%E5%AE%A2/</loc>
   </url><url>
     <loc>http://haveryyao.github.io/docs/</loc>
   </url>
